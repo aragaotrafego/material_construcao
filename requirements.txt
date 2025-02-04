@@ -5,4 +5,4 @@ evolutionapi==0.0.9
 openpyxl==3.1.2
 numpy==1.26.3
 datetime==5.3
-streamlit-searchbox =0.1.20
+streamlit-searchbox==0.1.20
