@@ -1,0 +1,4 @@
+CodigoOrcamento,Cliente,Vendedor,Canal,Pagamento,Produtos,TotalOrcamento,Data
+ORC-1738627674,AndrÃ©,Tiago,Loja ,Dinheiro,"[{'Nome': 'Areia MÃ©dia', 'Quantidade': 300.0, 'Unidade': 'MÂ³', 'Subtotal': 15000.0}]",15000.0,2025-02-03
+ORC-1738627765,jose,Otaviano,Loja ,Dinheiro,"[{'Nome': 'Areia Média', 'Quantidade': 300.0, 'Unidade': 'M³', 'Subtotal': 15000.0}, {'Nome': 'Areia Grossa', 'Quantidade': 200.0, 'Unidade': 'M³', 'Subtotal': 12000.0}]",27000.0,2025-02-03
+ORC-1738627893,diego,Tiago,Loja ,Dinheiro,"[{'Nome': 'Areia Fina', 'Quantidade': 250.0, 'Unidade': 'M³', 'Subtotal': 13750.0}]",13750.0,2025-02-03

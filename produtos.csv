@@ -1,0 +1,101 @@
+Código,Nome,Categoria,Preço,Estoque,Unidade
+1,Tijolo Cerâmico,Construção,1.5,1000,UN
+2,Cimento CP II,Construção,25.0,500,SC
+3,Areia Média,Construção,50.0,300,M³
+4,Brita 1,Construção,60.0,400,M³
+5,Argamassa,Construção,15.0,600,SC
+6,Fio 2.5mm,Elétrica,0.8,2000,M
+7,Disjuntor 20A,Elétrica,25.0,150,UN
+8,Lâmpada LED 9W,Elétrica,10.0,800,UN
+9,Tomada 10A,Elétrica,8.0,500,UN
+10,Cabo 4mm,Elétrica,2.5,1000,M
+11,Tubo PVC 20mm,Hidráulica,3.0,700,M
+12,Joelho 90° PVC,Hidráulica,1.5,1200,UN
+13,Registro de Pressão,Hidráulica,12.0,300,UN
+14,Cano PVC 50mm,Hidráulica,8.0,400,M
+15,Conector T PVC,Hidráulica,2.0,600,UN
+16,Tinta Acrílica,Acabamento,80.0,200,L
+17,Massa Corrida,Acabamento,30.0,400,KG
+18,Argamassa Colante,Acabamento,20.0,500,SC
+19,Rejunte,Acabamento,15.0,300,KG
+20,Piso Cerâmico,Acabamento,35.0,600,M²
+21,Bloco de Concreto,Construção,2.0,1500,UN
+22,Cal Hidratada,Construção,10.0,700,SC
+23,Chapisco,Construção,12.0,400,KG
+24,Caibro 6m,Construção,18.0,200,M
+25,Telha Cerâmica,Construção,5.0,800,UN
+26,Fio 1.5mm,Elétrica,0.5,2500,M
+27,Interruptor Simples,Elétrica,6.0,1000,UN
+28,Lâmpada Fluorescente,Elétrica,8.0,600,UN
+29,Tomada 20A,Elétrica,10.0,400,UN
+30,Cabo 6mm,Elétrica,4.0,800,M
+31,Tubo PVC 25mm,Hidráulica,4.0,600,M
+32,Joelho 45° PVC,Hidráulica,1.8,1000,UN
+33,Registro de Gaveta,Hidráulica,15.0,250,UN
+34,Cano PVC 75mm,Hidráulica,12.0,300,M
+35,Conector Cruz PVC,Hidráulica,3.0,500,UN
+36,Tinta Esmalte,Acabamento,90.0,150,L
+37,Massa Acrílica,Acabamento,25.0,350,KG
+38,Argamassa Polimérica,Acabamento,22.0,450,SC
+39,Rejunte Epóxi,Acabamento,20.0,250,KG
+40,Piso Laminado,Acabamento,40.0,500,M²
+41,Tijolo Baiano,Construção,1.2,1200,UN
+42,Cimento CP III,Construção,28.0,450,SC
+43,Areia Fina,Construção,55.0,0,M³
+44,Brita 2,Construção,65.0,350,M³
+45,Argamassa Colante,Construção,18.0,550,SC
+46,Fio 4mm,Elétrica,1.2,1800,M
+47,Disjuntor 30A,Elétrica,30.0,120,UN
+48,Lâmpada LED 12W,Elétrica,12.0,700,UN
+49,Tomada 15A,Elétrica,9.0,450,UN
+50,Cabo 10mm,Elétrica,6.0,600,M
+51,Tubo PVC 32mm,Hidráulica,5.0,500,M
+52,Joelho 90° PVC,Hidráulica,2.0,1100,UN
+53,Registro de Esfera,Hidráulica,18.0,200,UN
+54,Cano PVC 100mm,Hidráulica,15.0,250,M
+55,Conector Y PVC,Hidráulica,4.0,400,UN
+56,Tinta Latex,Acabamento,85.0,180,L
+57,Massa Acrílica,Acabamento,28.0,320,KG
+58,Argamassa Colante,Acabamento,24.0,420,SC
+59,Rejunte Flexível,Acabamento,18.0,220,KG
+60,Piso Porcelanato,Acabamento,45.0,450,M²
+61,Bloco de Vedação,Construção,1.8,1300,UN
+62,Cal Virgem,Construção,12.0,650,SC
+63,Chapisco Acrílico,Construção,14.0,350,KG
+64,Ripa 6m,Construção,20.0,180,M
+65,Telha de Fibrocimento,Construção,6.0,700,UN
+66,Fio 2.5mm,Elétrica,0.9,2200,M
+67,Interruptor Paralelo,Elétrica,7.0,900,UN
+68,Lâmpada Halógena,Elétrica,9.0,550,UN
+69,Tomada 25A,Elétrica,11.0,380,UN
+70,Cabo 16mm,Elétrica,8.0,500,M
+71,Tubo PVC 40mm,Hidráulica,6.0,450,M
+72,Joelho 22.5° PVC,Hidráulica,2.5,950,UN
+73,Registro de Pressão,Hidráulica,20.0,180,UN
+74,Cano PVC 150mm,Hidráulica,20.0,200,M
+75,Conector Redução PVC,Hidráulica,5.0,350,UN
+76,Tinta Acrílica Fosca,Acabamento,88.0,160,L
+77,Massa Corrida,Acabamento,32.0,300,KG
+78,Argamassa Colante,Acabamento,26.0,400,SC
+79,Rejunte Acrílico,Acabamento,22.0,200,KG
+80,Piso Vinílico,Acabamento,50.0,400,M²
+81,Tijolo Modular,Construção,1.6,1100,UN
+82,Cimento CP IV,Construção,30.0,400,SC
+83,Areia Grossa,Construção,60.0,200,M³
+84,Brita 0,Construção,70.0,300,M³
+85,Argamassa Colante,Construção,20.0,500,SC
+86,Fio 6mm,Elétrica,1.5,1600,M
+87,Disjuntor 40A,Elétrica,35.0,100,UN
+88,Lâmpada LED 15W,Elétrica,15.0,600,UN
+89,Tomada 30A,Elétrica,13.0,350,UN
+90,Cabo 25mm,Elétrica,10.0,400,M
+91,Tubo PVC 50mm,Hidráulica,7.0,400,M
+92,Joelho 45° PVC,Hidráulica,3.0,900,UN
+93,Registro de Gaveta,Hidráulica,22.0,150,UN
+94,Cano PVC 200mm,Hidráulica,25.0,150,M
+95,Conector Tê PVC,Hidráulica,6.0,300,UN
+96,Tinta Acrílica Brilhante,Acabamento,92.0,140,L
+97,Massa Acrílica,Acabamento,35.0,280,KG
+98,Argamassa Colante,Acabamento,28.0,380,SC
+99,Rejunte Polimérico,Acabamento,25.0,180,KG
+100,Piso Cerâmico Esmaltado,Acabamento,55.0,350,M²
